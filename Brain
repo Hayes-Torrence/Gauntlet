@@ -1,1 +1,17 @@
+void setup() {
+  // put your setup code here, to run once:
+  //initialize the arduino, initalize any libraries/classes/methods
 
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  
+
+  //Detection loop
+  
+   
+    //upon activation of detection loop run gesture identification method. 
+  
+
+}
